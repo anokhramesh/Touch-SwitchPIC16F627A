@@ -1,4 +1,4 @@
-//TOUCG switch-PIC16F627A
+//Multifunction Touch Switch with PIC16F627A
 //Anokhautomation
 //anokhramesh@gmail.com
 
